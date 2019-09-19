@@ -1,0 +1,8 @@
+Team Meeting Log:
+Meeting 1: Thursday 9/19/19, 9:00-11:00
+Members Present: Dylan, Henry
+Activities: Tentatively decided on app idea, wrote first draft of Project Milestone One.
+More work to be done on this later. (Confirm Team and App name, share github links, 
+work more on determining architecture plan, etc.)
+
+Meeting 2: 
