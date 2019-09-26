@@ -5,4 +5,6 @@ Activities: Tentatively decided on app idea, wrote first draft of Project Milest
 More work to be done on this later. (Confirm Team and App name, share github links, 
 work more on determining architecture plan, etc.)
 
-Meeting 2: 
+Meeting 2: Thursday 9/26/19, 9:00-
+Members Present: Dylan, Henry, Tracy, Julia, Cory
+Activities: Finished up Project 1 Milestones 
